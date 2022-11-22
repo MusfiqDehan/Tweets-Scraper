@@ -735,3 +735,16 @@ console.warn: LoginRecipes: "Falling back to a synchronous message for: https://
 JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.777f0b99.js, line 7: Error: ApiError: https://twitter.com/i/api/1.1/jot/ces/p2 HTTP-0 codes:[1004] trace_ids:[null]
 JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.777f0b99.js, line 7: Error: ApiError: https://twitter.com/i/api/1.1/jot/ces/p2 HTTP-0 codes:[1004] trace_ids:[null]
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1669135719360	geckodriver	INFO	Listening on 127.0.0.1:38101
+1669135719872	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46729" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilenKagjL"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1669135720869	Marionette	INFO	Marionette enabled
+1669135720874	Marionette	INFO	Listening on port 45335
+Read port: 45335
+WebDriver BiDi listening on ws://127.0.0.1:46729
+1669135721011	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilenKagjL/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:46729/devtools/browser/12ce4878-febb-4b61-9c4e-f284bfbd8784
