@@ -1,6 +1,6 @@
 # BBC Bangla News Tweets Scraper
 
-Scraping Tweets from **BBC Bangla News** Twitter Profile
+Scraping Tweets from **BBC Bangla News** Twitter Profile. It can be used for any Twitter Profile/Handle.
 
 ## Table of Contents
 
@@ -25,23 +25,32 @@ Scraping Tweets from **BBC Bangla News** Twitter Profile
 
 ## How to run locally
 
-1. First install the Chrome/Firefox/MS Edge webdriver in your PC and add the path in Environment variable
+1. First, install the **Chrome/Firefox/MS Edge webdriver** in your PC and add the path in Environment variable. <br>
 
 1. Clone the Repository <br>
-   `git clone https://github.com/MusfiqDehan/Tweets-Scraper.git`
+   ```
+   git clone https://github.com/MusfiqDehan/Tweets-Scraper.git
+   ```
 
 1. Change the directory <br>
-   `cd Tweets-Scraper`
+   ```
+   cd Tweets-Scraper
+   ```
 
 1. Initialize and Run Virtual Environments <br>
-   `pipenv install` <br>
-   `pipenv shell`
+   ```
+   pipenv install && pipenv shell
+   ```
 
 1. Install the dependencies <br>
-   ` pip3 install -r requirements.txt`
+   ```
+   pip3 install -r requirements.txt
+   ```
 
 1. Run the app <br>
-   `python3 tweets_scraper/main.py`
+   ```
+   python3 tweets_scraper/main.py
+   ```
 
 ## Challenges and Solutions
 
