@@ -1,4 +1,4 @@
-# BBC Bangla News Tweets Scraper
+# Tweets Scraper
 
 Scraping Tweets from **BBC Bangla News** Twitter Profile. It can be used for any Twitter Profile/Handle.
 
@@ -55,7 +55,7 @@ Scraping Tweets from **BBC Bangla News** Twitter Profile. It can be used for any
 ## Challenges and Solutions
 
 -   For Scrapping any twitter profile, we need to directly scrape a profile page using link, such as from https://x.com/bbcbangla 
-   -   If we want to enable search in twitter or x and we need to login to x/twiiter to get all the features and updates
+   -   If we want to enable search in twitter or x, we need to login to x/twiiter to get all the features and updates
 -   So, I have written the scripts to automate the login process also.
 -   But during my 15-20 trial 3-4 times only I was able to login directly and most of the times I have to fill the recaptcha.
 -   Automating recaptcha is very difficult, after some research, I found out that if we use some paid service like 2captcha we might be able to automate recaptcha also. However, it is not affordable for me now.
